@@ -1,0 +1,2 @@
+# все migration размещены по проектно
+# для выполнения миграций требуется команда: php artisan migrate:fresh --path=/database/migrations/{project_name} --seed
